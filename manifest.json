@@ -1,0 +1,22 @@
+{
+ "name": "PolyglotParallel",
+ "short_name": "PolyglotParallel",
+ "description": "An advanced language learning platform that utilizes the Multilingual Core A Parallel Comparative Approach to help users master multiple languages simultaneously through structured comparative analysis.",
+ "icons": [
+  {
+   "src": "logo-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "logo-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ],
+ "start_url": "./",
+ "display": "standalone",
+ "theme_color": "#000000",
+ "background_color": "#ffffff",
+ "scope": "./"
+}
